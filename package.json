@@ -10,7 +10,7 @@
   "dependencies": {
     "debug": "^3.1.0",
     "scmp": "^2.0.0",
-    "utility": "^1.14.0"
+    "utility": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^10.9.4",
